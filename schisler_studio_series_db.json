@@ -1,12 +1,96 @@
 [
   {
+    "id": "book_1793389354016",
+    "seriesTitle": "Spinal Tap",
+    "seriesGenre": "Horror, Thriller",
+    "releaseMode": "premiere-2ch",
+    "episodeNumber": "Chapters 1 & 2 (Premiere)",
+    "coverImg": "img_studio_banner",
+    "masterPlot": "An insane surgeon accidentally killed a patient in an experimental surgery. The patient was paralyzed and the doctor, Dr. John Giggleton, who wanted the prestige of pioneering a new surgery, tried to restore the patients spinal function. After accidentally killing a patient the doctor goes mad and runs a hidden clinic where he kidnaps patients in an effort  to complete a successful surgery that will win him prestige and renown. As he falls into madness he giggles during surgery and his victims hear a tapping sound right before they are kidnapped and before the anesthesia sets in for surgery.",
+    "ch1Beats": "Chapter one should tell the story of the doctors ambition and the start of the first procedure.",
+    "ch2Beats": "This should document the doctor accidentally killing patient 0 and begin his subsequent fall into madness.",
+    "viewerComments": "Viewer comments on Chapter 2 of Spinal Tap will drive Chapter 3.",
+    "characters": [
+      {
+        "id": "c_1793389351253_1",
+        "tag": "spinal",
+        "name": "Spinal (Protagonist & Narrator)",
+        "look": "Photorealistic live-action lead character Spinal, consistent wardrobe across all scenes",
+        "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+        "voiceName": "Liam — Youthful Boy / Teen Male (12–16yo, Earnest, Natural)",
+        "img": "img_studio_banner"
+      },
+      {
+        "id": "c_1793389351257_2",
+        "tag": "tap",
+        "name": "Tap (Supporting Lead)",
+        "look": "Photorealistic live-action character Tap, consistent wardrobe across all scenes",
+        "voiceId": "TxGEqnHWrfWFTfGW9XjX",
+        "voiceName": "Josh — Young Expressive Male (16–22yo, Best Friend / Lead)",
+        "img": "img_studio_banner"
+      },
+      {
+        "id": "c_1793389351258_3",
+        "tag": "john",
+        "name": "John (Key Figure)",
+        "look": "Photorealistic live-action character John, expressive cinematic lighting",
+        "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+        "voiceName": "Liam — Youthful Boy / Teen Male (12–16yo, Earnest, Natural)",
+        "img": "img_studio_banner"
+      }
+    ],
+    "locations": [
+      {
+        "id": "l_1793389351259_1",
+        "name": "Spinal Tap — Opening Setting",
+        "layout": "Main focal architecture on LEFT, character action in CENTER, street/doorway on RIGHT",
+        "img": "img_studio_banner"
+      },
+      {
+        "id": "l_1793389351259_2",
+        "name": "Spinal Tap — Climax Setting",
+        "layout": "Dramatic environment on LEFT, central confrontation in CENTER, exit path on RIGHT",
+        "img": "img_studio_banner"
+      }
+    ],
+    "chapterHistory": [
+      {
+        "chapter": 1,
+        "title": "Chapter 1",
+        "videoId": "Pending Upload",
+        "seed": "Series Premiere",
+        "summary": "This should document the doctors ambition and the start of the first procedure."
+      },
+      {
+        "chapter": 2,
+        "title": "Chapter 2",
+        "videoId": "Pending Upload",
+        "seed": "Premiere Part 2",
+        "summary": "This should document the doctor accidentally killing patient 0 and begin his subsequent fall into madness."
+      }
+    ],
+    "scripts": {
+      "1": "[MUSIC: Warm emotional acoustic guitar and solo cello intro in D minor at 68 BPM, close-miked studio recording, expressive cinematic melody, instrumental only, no drums]\n[VOICE: Spinal] Spinal Tap. Chapter One.\n\n[SFX: Realistic atmospheric ambience in Spinal Tap Opening Setting, subtle environmental room and street tone, continuous atmosphere]\n[VOICE: Spinal] Chapter one should tell the story of the doctors ambition and the start of the first procedure.\n\n[MUSIC: OFF]\n[VOICE: Spinal] Every step through Spinal Tap Opening Setting brought Spinal closer to the truth.\n\n[VOICE: Tap] Spinal, you do not have to go through this alone. Stay close and tell me what you saw.\n\n[SFX: Footsteps moving across the ground followed by a sudden dramatic shift in the environment]\n[MUSIC: Tense dramatic cello and piano underscore in C minor at 84 BPM, rising stakes and emotional suspense, instrumental only, no drums]\n[VOICE: Spinal] By the time night fell, everything had changed.\n\n[VOICE: John] Hold on! Take my hand before it is too late!\n\n[MUSIC: Dark lingering cello and piano cliffhanger coda in C minor at 64 BPM, building to a dramatic chapter resolution, instrumental only, no drums]\n[VOICE: Spinal] In the middle of the chaos, one question remained unanswered, and the truth was only beginning to surface.",
+      "2": "[MUSIC: Warm emotional acoustic guitar and solo cello intro in D minor at 68 BPM, close-miked studio recording, expressive cinematic melody, instrumental only, no drums]\n[VOICE: Spinal] Spinal Tap. Chapter Two.\n\n[SFX: Realistic atmospheric ambience in Spinal Tap Opening Setting, subtle environmental room and street tone, continuous atmosphere]\n[VOICE: Spinal] This should document the doctor accidentally killing patient 0 and begin his subsequent fall into madness.\n\n[MUSIC: OFF]\n[VOICE: Spinal] Every step through Spinal Tap Opening Setting brought Spinal closer to the truth.\n\n[VOICE: Tap] Spinal, you do not have to go through this alone. Stay close and tell me what you saw.\n\n[SFX: Footsteps moving across the ground followed by a sudden dramatic shift in the environment]\n[MUSIC: Tense dramatic cello and piano underscore in C minor at 84 BPM, rising stakes and emotional suspense, instrumental only, no drums]\n[VOICE: Spinal] By the time night fell, everything had changed.\n\n[VOICE: John] Hold on! Take my hand before it is too late!\n\n[MUSIC: Dark lingering cello and piano cliffhanger coda in C minor at 64 BPM, building to a dramatic chapter resolution, instrumental only, no drums]\n[VOICE: Spinal] In the middle of the chaos, one question remained unanswered, and the truth was only beginning to surface."
+    },
+    "gates": {
+      "1": false,
+      "2": false,
+      "3": true,
+      "4": true
+    },
+    "activeChapter": 2,
+    "activeTab": "elevenlabs",
+    "artStyle": "photorealistic"
+  },
+  {
     "id": "book_1793323414091",
     "seriesTitle": "The Hidden Helper",
     "seriesGenre": "Fantasy, Cinematic Mystery, Drama",
     "releaseMode": "premiere-2ch",
     "episodeNumber": "Chapters 1 & 2 (Premiere)",
     "coverImg": "hh_cut_1",
-    "masterPlot": "A good Samaritan mysteriously saves an orphan boy named Bud from the Louisville flood. The strange do gooder mysteriously disappears and Bud is left piecing together clues to the strangers identity. Eventually, Bud discovers the mysterious man's identity and sets up a surprise meeting that will be captured live by the local news crew. The mysterious man is shocked by the attention and eventually admits to being Bud's long lost father.",
+    "masterPlot": "A good Samaritan mysteriously saves a black orphan boy named Bud from the Louisville flood. The strange do gooder mysteriously disappears and Bud is left piecing together clues to the strangers identity. Eventually, Bud discovers the mysterious man's identity and sets up a surprise meeting that will be captured live by the local news crew. The mysterious man is shocked by the attention and eventually admits to being Bud's long lost father.",
     "ch1Beats": "Start with Buds life and how he was orphaned and lived on the streets. Also, he meets a girl named Malone who will help him throughout the mystery. She meets him when she sees him outside a restaurant window and she intentionally drops leftover food for him. End the chapter with the flood as Bud thinks he is about to die.",
     "ch2Beats": "Start the chapter with Bud being rescued by the mysterious stranger and waking up to wonder why he was saved and not others. After telling Malone his near drowning experience, the chapter should end with him and Malone finding their first clue to the man's identity.",
     "viewerComments": "Premiere Chapters 1 & 2.",
@@ -14,8 +98,8 @@
       {
         "id": "c_hh_1",
         "tag": "bud",
-        "name": "Bud (12, Orphan Boy & Narrator)",
-        "look": "Photorealistic live-action 12yo orphan boy with tousled brown hair, earnest eyes, worn patched denim jacket over a faded flannel shirt",
+        "name": "Bud (12, Young Black Orphan Boy & Narrator)",
+        "look": "12-year-old Black boy (African American) with short natural curly black hair, warm dark brown skin, expressive earnest brown eyes, wearing a worn patched denim jacket over a faded red-and-blue plaid flannel shirt and backpack",
         "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
         "voiceName": "Liam — Youthful Boy / Teen Male (12–16yo, Earnest, Natural)",
         "img": "hh_cut_1"
@@ -24,7 +108,7 @@
         "id": "c_hh_2",
         "tag": "malone",
         "name": "Malone (12, Resourceful Girl & Ally)",
-        "look": "Photorealistic live-action 12yo girl with dark hair in a knit beanie and a burgundy wool coat, kind and sharp-witted",
+        "look": "12-year-old girl with dark wavy hair tucked into a charcoal knit beanie, wearing a burgundy wool coat and warm scarf, kind and sharp-witted",
         "voiceId": "zrHiDhphv9ZnVXBqCLjz",
         "voiceName": "Mimi — Youthful 12yo Girl (Bright, Innocent, Child/Teen)",
         "img": "hh_cut_2"
@@ -32,8 +116,8 @@
       {
         "id": "c_hh_3",
         "tag": "samaritan",
-        "name": "The Good Samaritan / Father (42)",
-        "look": "Photorealistic live-action 42yo man with weathered kind face, short beard, wearing a heavy dark canvas rain slicker",
+        "name": "The Good Samaritan / Robert Miller (42, Bud Father)",
+        "look": "42-year-old Black man (African American, Bud father) with a weathered kind face, short close-cropped beard, warm dark brown skin, wearing a heavy dark canvas rain slicker over a work shirt",
         "voiceId": "JBFqnCBsd6RMkjVDRZzb",
         "voiceName": "George — Warm Storyteller / Older Father Male (50s)",
         "img": "hh_cut_4"
@@ -41,8 +125,8 @@
       {
         "id": "c_hh_4",
         "tag": "reporter",
-        "name": "Louisville News Reporter",
-        "look": "Photorealistic live-action local TV news reporter holding a broadcast microphone in rain gear",
+        "name": "Louisville TV News Reporter",
+        "look": "Local television news reporter holding a broadcast microphone in rain gear at Louisville Riverfront Pier",
         "voiceId": "TxGEqnHWrfWFTfGW9XjX",
         "voiceName": "Josh — Young Expressive Male (16–22yo, Best Friend / Lead)",
         "img": "hh_cut_3"
@@ -83,10 +167,10 @@
     "chapterHistory": [
       {
         "chapter": 1,
-        "title": "The Girl at the Window & The Rising River",
+        "title": "Chapter 1",
         "videoId": "Pending Upload",
-        "seed": "Series Premiere",
-        "summary": "Orphan boy Bud survives on the streets of Louisville, meets Malone who leaves warm food for him outside her uncle restaurant window, and gets caught in the catastrophic Louisville flood."
+        "seed": "Premiere Chapters 1 & 2.",
+        "summary": "The Hidden Helper. Chapter One. The Girl at the Window and the Rising River. If you spend enough nights sleeping on the streets of Louisville down near the Ohio River docks, you learn pretty quick how to stay invisible. After my folks were gone and the foster …"
       },
       {
         "chapter": 2,
@@ -97,7 +181,7 @@
       }
     ],
     "captionsEnabled": false,
-    "artStyle": "pixar-3d"
+    "artStyle": "comic-graphic"
   },
   {
     "id": "book_mosaic",
@@ -285,7 +369,8 @@
       "3": true,
       "4": true
     },
-    "activeChapter": 3,
-    "activeTab": "setup"
+    "activeChapter": 1,
+    "activeTab": "setup",
+    "artStyle": "pixar-3d"
   }
 ]

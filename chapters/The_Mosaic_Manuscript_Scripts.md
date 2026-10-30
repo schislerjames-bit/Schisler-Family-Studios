@@ -2,14 +2,76 @@
 
 > Auto-synced from the Schisler Family Studios Autonomous Dashboard.
 
-## Series: The Hidden Helper (Fantasy, Cinematic Mystery, Drama)
-**Overarching Plot:** A good Samaritan mysteriously saves an orphan boy named Bud from the Louisville flood. The strange do gooder mysteriously disappears and Bud is left piecing together clues to the strangers identity. Eventually, Bud discovers the mysterious man's identity and sets up a surprise meeting that will be captured live by the local news crew. The mysterious man is shocked by the attention and eventually admits to being Bud's long lost father.
+## Series: Spinal Tap (Horror, Thriller)
+**Overarching Plot:** An insane surgeon accidentally killed a patient in an experimental surgery. The patient was paralyzed and the doctor, Dr. John Giggleton, who wanted the prestige of pioneering a new surgery, tried to restore the patients spinal function. After accidentally killing a patient the doctor goes mad and runs a hidden clinic where he kidnaps patients in an effort  to complete a successful surgery that will win him prestige and renown. As he falls into madness he giggles during surgery and his victims hear a tapping sound right before they are kidnapped and before the anesthesia sets in for surgery.
 
 ### Locked Character & ElevenLabs Voice Bible
-- **[VOICE: bud] Bud (12, Orphan Boy & Narrator)** — Voice: `Liam — Youthful Boy / Teen Male (12–16yo, Earnest, Natural)` (TX3LPaxmHKxFdv7VOQHJ) | Look: Photorealistic live-action 12yo orphan boy with tousled brown hair, earnest eyes, worn patched denim jacket over a faded flannel shirt
-- **[VOICE: malone] Malone (12, Resourceful Girl & Ally)** — Voice: `Mimi — Youthful 12yo Girl (Bright, Innocent, Child/Teen)` (zrHiDhphv9ZnVXBqCLjz) | Look: Photorealistic live-action 12yo girl with dark hair in a knit beanie and a burgundy wool coat, kind and sharp-witted
-- **[VOICE: samaritan] The Good Samaritan / Father (42)** — Voice: `George — Warm Storyteller / Older Father Male (50s)` (JBFqnCBsd6RMkjVDRZzb) | Look: Photorealistic live-action 42yo man with weathered kind face, short beard, wearing a heavy dark canvas rain slicker
-- **[VOICE: reporter] Louisville News Reporter** — Voice: `Josh — Young Expressive Male (16–22yo, Best Friend / Lead)` (TxGEqnHWrfWFTfGW9XjX) | Look: Photorealistic live-action local TV news reporter holding a broadcast microphone in rain gear
+- **[VOICE: spinal] Spinal (Protagonist & Narrator)** — Voice: `Liam — Youthful Boy / Teen Male (12–16yo, Earnest, Natural)` (TX3LPaxmHKxFdv7VOQHJ) | Look: Photorealistic live-action lead character Spinal, consistent wardrobe across all scenes
+- **[VOICE: tap] Tap (Supporting Lead)** — Voice: `Josh — Young Expressive Male (16–22yo, Best Friend / Lead)` (TxGEqnHWrfWFTfGW9XjX) | Look: Photorealistic live-action character Tap, consistent wardrobe across all scenes
+- **[VOICE: john] John (Key Figure)** — Voice: `Liam — Youthful Boy / Teen Male (12–16yo, Earnest, Natural)` (TX3LPaxmHKxFdv7VOQHJ) | Look: Photorealistic live-action character John, expressive cinematic lighting
+
+### Locked Scene & Set Layouts
+- **Spinal Tap — Opening Setting**: Main focal architecture on LEFT, character action in CENTER, street/doorway on RIGHT
+- **Spinal Tap — Climax Setting**: Dramatic environment on LEFT, central confrontation in CENTER, exit path on RIGHT
+
+### Cumulative Story Canon Log
+- **Chapter 1 (Chapter 1)** [Video: `Pending Upload`]: This should document the doctors ambition and the start of the first procedure.
+- **Chapter 2 (Chapter 2)** [Video: `Pending Upload`]: This should document the doctor accidentally killing patient 0 and begin his subsequent fall into madness.
+
+### Chapter 1 Full-Cast Script
+```text
+[MUSIC: Warm emotional acoustic guitar and solo cello intro in D minor at 68 BPM, close-miked studio recording, expressive cinematic melody, instrumental only, no drums]
+[VOICE: Spinal] Spinal Tap. Chapter One.
+
+[SFX: Realistic atmospheric ambience in Spinal Tap Opening Setting, subtle environmental room and street tone, continuous atmosphere]
+[VOICE: Spinal] Chapter one should tell the story of the doctors ambition and the start of the first procedure.
+
+[MUSIC: OFF]
+[VOICE: Spinal] Every step through Spinal Tap Opening Setting brought Spinal closer to the truth.
+
+[VOICE: Tap] Spinal, you do not have to go through this alone. Stay close and tell me what you saw.
+
+[SFX: Footsteps moving across the ground followed by a sudden dramatic shift in the environment]
+[MUSIC: Tense dramatic cello and piano underscore in C minor at 84 BPM, rising stakes and emotional suspense, instrumental only, no drums]
+[VOICE: Spinal] By the time night fell, everything had changed.
+
+[VOICE: John] Hold on! Take my hand before it is too late!
+
+[MUSIC: Dark lingering cello and piano cliffhanger coda in C minor at 64 BPM, building to a dramatic chapter resolution, instrumental only, no drums]
+[VOICE: Spinal] In the middle of the chaos, one question remained unanswered, and the truth was only beginning to surface.
+```
+
+### Chapter 2 Full-Cast Script
+```text
+[MUSIC: Warm emotional acoustic guitar and solo cello intro in D minor at 68 BPM, close-miked studio recording, expressive cinematic melody, instrumental only, no drums]
+[VOICE: Spinal] Spinal Tap. Chapter Two.
+
+[SFX: Realistic atmospheric ambience in Spinal Tap Opening Setting, subtle environmental room and street tone, continuous atmosphere]
+[VOICE: Spinal] This should document the doctor accidentally killing patient 0 and begin his subsequent fall into madness.
+
+[MUSIC: OFF]
+[VOICE: Spinal] Every step through Spinal Tap Opening Setting brought Spinal closer to the truth.
+
+[VOICE: Tap] Spinal, you do not have to go through this alone. Stay close and tell me what you saw.
+
+[SFX: Footsteps moving across the ground followed by a sudden dramatic shift in the environment]
+[MUSIC: Tense dramatic cello and piano underscore in C minor at 84 BPM, rising stakes and emotional suspense, instrumental only, no drums]
+[VOICE: Spinal] By the time night fell, everything had changed.
+
+[VOICE: John] Hold on! Take my hand before it is too late!
+
+[MUSIC: Dark lingering cello and piano cliffhanger coda in C minor at 64 BPM, building to a dramatic chapter resolution, instrumental only, no drums]
+[VOICE: Spinal] In the middle of the chaos, one question remained unanswered, and the truth was only beginning to surface.
+```
+
+## Series: The Hidden Helper (Fantasy, Cinematic Mystery, Drama)
+**Overarching Plot:** A good Samaritan mysteriously saves a black orphan boy named Bud from the Louisville flood. The strange do gooder mysteriously disappears and Bud is left piecing together clues to the strangers identity. Eventually, Bud discovers the mysterious man's identity and sets up a surprise meeting that will be captured live by the local news crew. The mysterious man is shocked by the attention and eventually admits to being Bud's long lost father.
+
+### Locked Character & ElevenLabs Voice Bible
+- **[VOICE: bud] Bud (12, Young Black Orphan Boy & Narrator)** — Voice: `Liam — Youthful Boy / Teen Male (12–16yo, Earnest, Natural)` (TX3LPaxmHKxFdv7VOQHJ) | Look: 12-year-old Black boy (African American) with short natural curly black hair, warm dark brown skin, expressive earnest brown eyes, wearing a worn patched denim jacket over a faded red-and-blue plaid flannel shirt and backpack
+- **[VOICE: malone] Malone (12, Resourceful Girl & Ally)** — Voice: `Mimi — Youthful 12yo Girl (Bright, Innocent, Child/Teen)` (zrHiDhphv9ZnVXBqCLjz) | Look: 12-year-old girl with dark wavy hair tucked into a charcoal knit beanie, wearing a burgundy wool coat and warm scarf, kind and sharp-witted
+- **[VOICE: samaritan] The Good Samaritan / Robert Miller (42, Bud Father)** — Voice: `George — Warm Storyteller / Older Father Male (50s)` (JBFqnCBsd6RMkjVDRZzb) | Look: 42-year-old Black man (African American, Bud father) with a weathered kind face, short close-cropped beard, warm dark brown skin, wearing a heavy dark canvas rain slicker over a work shirt
+- **[VOICE: reporter] Louisville TV News Reporter** — Voice: `Josh — Young Expressive Male (16–22yo, Best Friend / Lead)` (TxGEqnHWrfWFTfGW9XjX) | Look: Local television news reporter holding a broadcast microphone in rain gear at Louisville Riverfront Pier
 
 ### Locked Scene & Set Layouts
 - **Louisville Restaurant Window & Rainy Alley**: Warm glowing restaurant plate-glass window on LEFT, wet brick alley & wooden crates in CENTER, side service door on RIGHT
@@ -17,7 +79,7 @@
 - **Louisville Riverfront Pier & Live News Broadcast**: Riverfront dock & Ohio River bridge on LEFT, live news camera crew & meeting spot in CENTER, warehouse on RIGHT
 
 ### Cumulative Story Canon Log
-- **Chapter 1 (The Girl at the Window & The Rising River)** [Video: `Pending Upload`]: Orphan boy Bud survives on the streets of Louisville, meets Malone who leaves warm food for him outside her uncle restaurant window, and gets caught in the catastrophic Louisville flood.
+- **Chapter 1 (Chapter 1)** [Video: `Pending Upload`]: The Hidden Helper. Chapter One. The Girl at the Window and the Rising River. If you spend enough nights sleeping on the streets of Louisville down near the Ohio River docks, you learn pretty quick how to stay invisible. After my folks were gone and the foster …
 - **Chapter 2 (The Man in the Canvas Coat)** [Video: `Pending Upload`]: A mysterious Good Samaritan rescues Bud from the raging floodwaters and leaves behind an engraved brass compass. Bud and Malone trace the clues and set up a live TV news reunion where the man admits to being Bud long-lost father.
 
 ### Chapter 1 Full-Cast Script

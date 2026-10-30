@@ -2,6 +2,97 @@
 
 > Auto-synced from the Schisler Family Studios Autonomous Dashboard.
 
+## Series: The Hidden Helper (Fantasy, Cinematic Mystery, Drama)
+**Overarching Plot:** A good Samaritan mysteriously saves an orphan boy named Bud from the Louisville flood. The strange do gooder mysteriously disappears and Bud is left piecing together clues to the strangers identity. Eventually, Bud discovers the mysterious man's identity and sets up a surprise meeting that will be captured live by the local news crew. The mysterious man is shocked by the attention and eventually admits to being Bud's long lost father.
+
+### Locked Character & ElevenLabs Voice Bible
+- **[VOICE: bud] Bud (12, Orphan Boy & Narrator)** — Voice: `Liam — Youthful Boy / Teen Male (12–16yo, Earnest, Natural)` (TX3LPaxmHKxFdv7VOQHJ) | Look: Photorealistic live-action 12yo orphan boy with tousled brown hair, earnest eyes, worn patched denim jacket over a faded flannel shirt
+- **[VOICE: malone] Malone (12, Resourceful Girl & Ally)** — Voice: `Mimi — Youthful 12yo Girl (Bright, Innocent, Child/Teen)` (zrHiDhphv9ZnVXBqCLjz) | Look: Photorealistic live-action 12yo girl with dark hair in a knit beanie and a burgundy wool coat, kind and sharp-witted
+- **[VOICE: samaritan] The Good Samaritan / Father (42)** — Voice: `George — Warm Storyteller / Older Father Male (50s)` (JBFqnCBsd6RMkjVDRZzb) | Look: Photorealistic live-action 42yo man with weathered kind face, short beard, wearing a heavy dark canvas rain slicker
+- **[VOICE: reporter] Louisville News Reporter** — Voice: `Josh — Young Expressive Male (16–22yo, Best Friend / Lead)` (TxGEqnHWrfWFTfGW9XjX) | Look: Photorealistic live-action local TV news reporter holding a broadcast microphone in rain gear
+
+### Locked Scene & Set Layouts
+- **Louisville Restaurant Window & Rainy Alley**: Warm glowing restaurant plate-glass window on LEFT, wet brick alley & wooden crates in CENTER, side service door on RIGHT
+- **Louisville Riverfront Street & Raging Floodwaters**: Brick buildings on LEFT, surging knee-deep muddy floodwaters & cast-iron streetlamp in CENTER, high stone customs steps on RIGHT
+- **Louisville Riverfront Pier & Live News Broadcast**: Riverfront dock & Ohio River bridge on LEFT, live news camera crew & meeting spot in CENTER, warehouse on RIGHT
+
+### Cumulative Story Canon Log
+- **Chapter 1 (The Girl at the Window & The Rising River)** [Video: `Pending Upload`]: Orphan boy Bud survives on the streets of Louisville, meets Malone who leaves warm food for him outside her uncle restaurant window, and gets caught in the catastrophic Louisville flood.
+- **Chapter 2 (The Man in the Canvas Coat)** [Video: `Pending Upload`]: A mysterious Good Samaritan rescues Bud from the raging floodwaters and leaves behind an engraved brass compass. Bud and Malone trace the clues and set up a live TV news reunion where the man admits to being Bud long-lost father.
+
+### Chapter 1 Full-Cast Script
+```text
+[MUSIC: Warm emotional acoustic guitar and solo cello intro in G minor at 68 BPM, close-miked studio recording, poignant cinematic drama melody, instrumental only, no drums]
+[VOICE: Bud] The Hidden Helper. Chapter One. The Girl at the Window and the Rising River.
+
+If you spend enough nights sleeping on the streets of Louisville down near the Ohio River docks, you learn pretty quick how to stay invisible. After my folks were gone and the foster home on Market Street shut its doors, all I had left was a patched denim jacket, a worn canvas backpack, and the dry corner beneath the brick archway behind Riverfront Bistro.
+[SFX: Evening city street ambience in Louisville with distant tugboat horn on the Ohio River and light rain pattering on pavement, continuous outdoor atmosphere]
+[VOICE: Bud] Most evenings, people walked right past the alley without looking twice. Through the steamed up plate glass window of the restaurant, I would watch families sitting in warm booths, laughing over plates of hot roast beef and fresh rolls while the cold Kentucky wind bit right through my sleeves.
+
+[MUSIC: OFF]
+[VOICE: Bud] That was where I first saw Malone. She was about my age, twelve years old, wearing a dark knit beanie and a burgundy wool coat. Her uncle ran the kitchen inside the bistro, and three nights in a row I caught her glancing out through the glass right toward my corner of the alley.
+
+On Friday evening, as dark storm clouds rolled in thick and heavy over the Louisville riverfront, the heavy steel side door of the restaurant clicked open.
+[SFX: Heavy metal restaurant service door unlatching and opening onto a wet brick alley, followed by soft footsteps on pavement]
+[VOICE: Bud] I shrank back behind the wooden crates, expecting a cook to chase me off the block. Instead, Malone stepped out onto the concrete step carrying a folded brown paper takeaway bag still steaming in the cold air. She looked right at me, set the bag down gently on top of a dry wooden crate, and took two steps back so I would not bolt.
+
+[VOICE: Malone] You do not have to hide back there. I know you have been sleeping under the awning since Tuesday. There is hot sourdough bread, roast turkey, and two thermoses of soup inside the bag. My uncle thought I was throwing out the extra rolls from the dinner rush, so nobody is going to miss it.
+
+[VOICE: Bud] I stepped slowly out from the shadows, my hands trembling from the cold as I reached for the warm paper bag.
+[SFX: Crisp close-up foley of a brown paper takeaway bag rustling open by hand]
+[VOICE: Bud] Why are you doing this? Nobody down on the riverfront gives away a meal like this for nothing.
+
+[VOICE: Malone] Because nobody should have to sit out in the rain watching other people eat through a window. My name is Malone. What is yours?
+
+[VOICE: Bud] Everybody just calls me Bud.
+
+[VOICE: Malone] Well, listen to me, Bud. Have you heard the sirens down by the levee tonight? The river gauge rose nine feet since noon, and the storm drains along Water Street are already backing up. You cannot stay down here in this lower alley tonight.
+
+[SFX: Deep rolling thunderclap overhead followed immediately by torrential rain pouring down onto brick pavement and tin roofs, continuous storm atmosphere]
+[MUSIC: Tense urgent orchestral cello and low piano pulse in D minor at 96 BPM, rising flood danger and suspense, smooth legato strings, instrumental only, no drums]
+[VOICE: Bud] Before I could even answer her, the sky above downtown Louisville tore open. Her uncle called her name sharply from inside the kitchen hallway, and Malone had to duck back through the service door before it locked shut.
+
+Within twenty minutes, the rain turned into a blinding wall of water. Down at the end of the block, a low, terrifying roar echoed off the brick warehouses as the river surged over the lower floodwall.
+[SFX: Raging muddy floodwater surging and roaring down a narrow street, splashing violently against brick walls]
+[VOICE: Bud] Freezing, muddy black water came churning down the alley like a freight train, knocking the wooden crates out from under my feet. I scrambled toward the higher street, but the current was too fast. By the time I reached the corner of Water Street, the floodwater was waist deep and rising by the second, tearing parked cars loose from the curb.
+
+[MUSIC: OFF]
+[SFX: Heavy rushing flood rapids churning around metal and a boy gasping in freezing water]
+[VOICE: Bud] A floating timber beam slammed into my ribs, knocking the wind out of my chest. My fingers barely caught hold of a cast iron streetlamp post as my feet were swept completely off the cobblestones. The freezing current pulled at my soaked denim jacket like lead weights. My grip on the wet iron post began to slip.
+
+[MUSIC: Dramatic dark suspenseful strings and low piano chord in C minor at 72 BPM, life-or-death cliffhanger tension, instrumental only, no drums]
+[VOICE: Bud] The muddy water crested right up to my chin. My frozen fingers peeled off the iron post, and as the raging Louisville flood swallowed me under, I closed my eyes and thought I was about to die.
+```
+
+### Chapter 2 Full-Cast Script
+```text
+[MUSIC: Tense dramatic chamber strings and felt piano intro in C minor at 84 BPM, rescue aftermath and mystery mood, instrumental only, no drums]
+[SFX: Heavy torrential rain and rushing floodwater eddies lapping against high stone steps at night, continuous storm atmosphere]
+[VOICE: Bud] The Hidden Helper. Chapter Two. The Man in the Canvas Coat.
+
+The black water of the Louisville flood pulled me under for what felt like eternity. Then, just as my lungs burned for air, an iron strong hand plunged into the churning current and clamped onto the collar of my denim jacket.
+[SFX: Powerful splash of water as a person is hauled upward out of rushing floodwaters onto wet stone steps]
+[VOICE: Bud] With one tremendous pull, a tall man in a heavy dark canvas rain slicker dragged me out of the rapids and up onto the high stone steps of the old customs house. I lay coughing on the stone landing, wiping muddy water from my eyes as the streetlamp behind him cast his face in deep shadow.
+
+[MUSIC: OFF]
+[VOICE: Samaritan] Easy now, kid. Breathe slow. You are out of the current. Put this around your shoulders and stay up on this high terrace until the rescue boats reach the corner.
+
+[VOICE: Bud] His voice was low, rough, and trembling with an emotion I could not place, almost like he knew my face. Before I could catch my breath to thank him, he wrapped a dry wool scarf around my neck, pressed a heavy brass compass into my palm, and vanished into the driving rain as the emergency sirens rounded the block.
+
+[SFX: Morning city birds chirping softly and distant Louisville traffic across wet streets, continuous outdoor morning atmosphere]
+[VOICE: Bud] Two days later, after the floodwaters receded from the lower riverfront, I met Malone on the dry steps outside the bistro and showed her the antique brass compass the stranger had left in my hand.
+[SFX: Crisp metallic click of a vintage brass pocket compass lid snapping open]
+[VOICE: Malone] Bud, look inside the lid of this compass! There is an engraving scratched into the brass beside a faded photograph of a woman holding a baby: R. M., Harbor Maintenance Dock Four. That Good Samaritan did not just happen to be on Water Street in the middle of a flood. He was looking for you.
+
+[MUSIC: Uplifting investigative piano and warm cello melody in G major at 88 BPM, hope and discovery building to an emotional reveal, instrumental only, no drums]
+[VOICE: Bud] With Malone's help, we tracked the initials R. M. to Robert Miller, a quiet river barge mechanic at Dock Four who had lost track of his infant son twelve years ago after a house fire. When we called the local Louisville news station and told them the boy rescued from the Water Street flood had found his mysterious Good Samaritan, the news crew set up a live broadcast right on the riverfront pier.
+
+[SFX: Outdoor riverfront pier ambience with a television news van generator humming softly and footsteps approaching on wooden planks]
+[VOICE: Reporter] We are live at Louisville Riverfront Pier Four, where twelve year old flood survivor Bud is waiting to meet the anonymous Good Samaritan who pulled him from the raging Ohio River floodwaters on Friday night.
+
+[VOICE: Samaritan] When Robert stepped onto the pier in his work coat and saw the camera lights—and saw me holding up that brass compass—he stopped dead in his tracks, tears filling his eyes as he finally admitted the truth: he had been watching over me from afar for months, and he was my long lost father.
+```
+
 ## Series: The Mosaic Manuscript (Cinematic Fantasy Drama)
 **Overarching Plot:** A teenage girl is stuck in a chaotic life in a town that does not feel real. She sees mysterious things that make it seem as though her life is just a script written by the Unknown. Slowly she unravels the clues that help her find that a random group of people (whom she calls the Unknown) were writing her story all along, making the twists and turns of her life. The people are shocked to find out that she is real.
 
